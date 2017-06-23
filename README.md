@@ -1,2 +1,2 @@
 # Library
-Library of communication system and instruments
+Communications systems and instruments library
